@@ -1,0 +1,44 @@
+{
+    "ARUNACHAL PRADESH": {
+        "literateMales": 720098,
+        "illiterateMales": 462204,
+        "literateFemales": 563080,
+        "illiterateFemales": 590166
+    },
+    "NAGALAND": {
+        "literateMales": 1334871,
+        "illiterateMales": 555805,
+        "literateFemales": 1173537,
+        "illiterateFemales": 625262
+    },
+    "MANIPUR": {
+        "literateMales": 1467970,
+        "illiterateMales": 607758,
+        "literateFemales": 1240404,
+        "illiterateFemales": 804412
+    },
+    "MIZORAM": {
+        "literateMales": 846180,
+        "illiterateMales": 226260,
+        "literateFemales": 804268,
+        "illiterateFemales": 257831
+    },
+    "TRIPURA": {
+        "literateMales": 2206024,
+        "illiterateMales": 591049,
+        "literateFemales": 1899405,
+        "illiterateFemales": 799170
+    },
+    "MEGHALAYA": {
+        "literateMales": 1684600,
+        "illiterateMales": 1086117,
+        "literateFemales": 1637263,
+        "illiterateFemales": 1132125
+    },
+    "ASSAM": {
+        "literateMales": 12719584,
+        "illiterateMales": 6322178,
+        "literateFemales": 10351929,
+        "illiterateFemales": 7927577
+    }
+}

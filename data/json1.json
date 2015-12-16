@@ -1,0 +1,12 @@
+[
+    {
+        "education": "Literate",
+        "male": 531381235,
+        "female": 397783047
+    },
+    {
+        "education": "Illiterate",
+        "male": 247971552,
+        "female": 339643231
+    }
+]

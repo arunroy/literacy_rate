@@ -1,0 +1,14 @@
+India Census 2011 - Educational Level Age,Sex - more than 7 yrs - State wise.
+
+Part 1
+Write a nodejs program that converts the csv files by merging the three files (ST, SC and General) into a json file that will be used to plot data in part 2. You have to come up with an optimal schema based on the requirements of Part 2.
+
+Part 2
+Write a web page with d3.js which …
+1.Loads the json produced in Part 1.
+2. Plots the following plots … (Note:)
+  a.Demonstrate the Male/Female ratio by clubbing all states and show the Illiterate and Literate population of India 
+  b.Club 7 North-Eastern states, show the literate and Illiterate Male/Female Ratio.
+  c.Show state-wise comparison literate and Illiterate population.
+
+Note: Ignore the aggregated Totals for each state - depending on the graph you are plotting.
